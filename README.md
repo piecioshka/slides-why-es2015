@@ -1,2 +1,2 @@
-# presentation-why-es6
+# slides-why-es6
 
